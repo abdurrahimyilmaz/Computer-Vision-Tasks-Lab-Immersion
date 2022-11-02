@@ -1,0 +1,39 @@
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\arahi\Desktop\Yaz Çalışmaları\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\İdeal\Okul\Yapılanlar\2017 YAZ\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\İdeal\Okul\Yapılanlar\2017 YAZ\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\İdeal\Okul\Yapılanlar\2017 YAZ\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\İdeal\Okul\Yapılanlar\2017 YAZ\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\İdeal\Okul\Yapılanlar\2017 YAZ\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\İdeal\Okul\Yapılanlar\2017 YAZ\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\İdeal\Okul\Yapılanlar\2017 YAZ\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\İdeal\Okul\Yapılanlar\2017 YAZ\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\İdeal\Okul\Yapılanlar\2017 YAZ\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\Hedef\Okul\Yapılanlar\2017 YAZ\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\Hedef\Okul\Yapılanlar\2017 YAZ\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\Hedef\Okul\Yapılanlar\2017 YAZ\Abdurrahim Yılmaz 1. Ödev Yaz Çalışmaları\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb

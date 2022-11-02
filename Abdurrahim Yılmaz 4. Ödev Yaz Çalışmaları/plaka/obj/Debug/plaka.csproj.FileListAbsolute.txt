@@ -1,0 +1,44 @@
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\plaka.exe.config
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\plaka.exe
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\plaka.pdb
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\obj\Debug\plaka.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\obj\Debug\plaka.Form1.resources
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\obj\Debug\plaka.Properties.Resources.resources
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\obj\Debug\plaka.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\obj\Debug\plaka.exe
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\obj\Debug\plaka.pdb
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\x64\liblept172.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\x64\libtesseract304.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\x86\liblept172.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\x86\libtesseract304.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\Tesseract.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\Tesseract.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\AForge.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\AForge.Imaging.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\AForge.Math.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\AForge.Imaging.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\AForge.Math.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\plaka\plaka\bin\Debug\AForge.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\x64\liblept172.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\x64\libtesseract304.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\x86\liblept172.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\x86\libtesseract304.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\plaka.exe.config
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\plaka.exe
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\plaka.pdb
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\Tesseract.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\AForge.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\AForge.Math.dll
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\AForge.Imaging.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\Tesseract.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\AForge.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\AForge.Math.xml
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\obj\Debug\plaka.csprojResolveAssemblyReference.cache
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\obj\Debug\plaka.Form1.resources
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\obj\Debug\plaka.Properties.Resources.resources
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\obj\Debug\plaka.csproj.GenerateResource.Cache
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\obj\Debug\plaka.exe
+C:\Users\arahi\Desktop\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\obj\Debug\plaka.pdb
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\bin\Debug\plaka.exe.config
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\obj\Debug\plaka.exe
+D:\İdeal\Okul\Yaz Çalışmaları\Abdurrahim Yılmaz 4. Ödev Yaz Çalışmaları\plaka\obj\Debug\plaka.pdb
